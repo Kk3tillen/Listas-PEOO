@@ -1,5 +1,5 @@
 # Listas-PEOO
-Códigos fontes das listas de exercícios da matéria de PEOO. 
+Códigos fontes das listas de exercício da matéria de PEOO. 
 
 <h3> Links das listas </h3>
 <ul>
